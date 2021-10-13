@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello world!</title>
+	<title>Hello world - This my DevOps pipeline at work!</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
@@ -46,7 +46,7 @@
 
 	if($_ENV["DOCKERCLOUD_AUTH"]) {
 		?>
-		<h3>I have Docker Cloud API powers!</h3>
+		<h3>I have Docker Cloud API powers! WOOOOOOOOO</h3>
 		<?php
 	}
 	?>
